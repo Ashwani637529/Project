@@ -1,6 +1,6 @@
- Myntra Clone 👗🛍️
+### Myntra Clone 👗🛍️
 
-📌 Project Overview
+##📌 Project Overview
 
 This project is a **front-end clone of the Myntra website**, created as my first Web Development project.
 The goal of this project was to practice **HTML, CSS, and basic web design skills** by recreating the layout and styling of a popular e-commerce website.
@@ -9,7 +9,7 @@ The clone includes important sections such as the navigation bar, product listin
 
 ---
 
- 🚀 Features
+ ##🚀 Features
 
 * Responsive **navigation bar**
 * **Product listing section** with images and prices
